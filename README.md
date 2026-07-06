@@ -125,8 +125,10 @@ ant run
 ### 2. **Login Screen**
    - Default credentials are configured by admin
    - Access Credentials
-         Username: suhel@admin
-         Password: 123456
+
+         # Username: suhel@admin
+         # Password: 123456
+   
    - First-time users need to register as a Customer or Car Owner
 
 ### 3. **Main Menu Operations**
